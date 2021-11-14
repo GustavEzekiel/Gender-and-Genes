@@ -1,0 +1,35 @@
+####################################
+Notas paper
+RNA-seq analysis of Drosophila clock and nonclock
+neurons reveals neuron-specific cycling
+and novel candidate neuropeptides
+++++++++++++++++++++++++++++++++++++
+
+No especifica si eran machos o hembras.
+
+Muestran ciclicidad de genes que comparten expresión entre al menos dos grupos neuronales. No muestran la ciclicidad de PDF, aunque hablan
+de que gran parte de los genes que ciclan son grupo-específicos.
+
+Hacen análisis de furier y otro más para determinar si un gen cicla o no.
+
+Muchos genes que ciclan en las pdf cells lo hacen de manera bimodal, excepto por los que pertenecen al core circadian clock.
+
+Parece que ese ciclado bimodal está restringido a las small PDF neurons.
+
+El ciclado bimodal tiene sus picos aproximadamente en ZT5-6 y ZT17-18 (al parecer roughly similar a lo que se ve en el aparente ciclado de pdf 
+en el paper "Rosbash2015-RNA_seq Profiling of Small.." donde miran el enriquecimiento de pdf en m-cells por q-PCR)
+
+Viendo las figuras suplementarias, PDF, Ni pdf receptor cicla en neuronas pdf !!!!!!!
+
+-> el heatmap de ciclado es una masa. 
+
+
+
+-----------------------------------------------------
+NOTA QUE APARECIÓ EN LAS FIGURAS SUPLEMETARIAS:
+
+S5 Fig. ChAT expression in the LNds is important for sleep suppression.
+Transcripts encoding choline acetyltransferase (ChAT) are enriched in LNds. Knockdown of ChAT transcripts specifically in the LNds 
+(Dv-PDF-GAL4, pdfgal80; pdfgal80 driver) using RNAi results in an increase in total sleep (black). This increase is statistically 
+significant (p-value <0.05 by one-way Anova) compared to both the driver only control (white) and the RNAi only control (gray). n = 16 
+for all genotypes.

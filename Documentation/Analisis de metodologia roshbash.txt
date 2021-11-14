@@ -1,0 +1,13 @@
+notas de los métodos de roshbash
+	usa 50 cabezas (supuestamente 25 y 25 de hembras y machos)
+	las digiere todas y las pone en el facts
+	Decenas o cientos de miles de células en las que hay 7500 neuronas relojeras (50 cerebros x 150 neuronas each) se sortean.
+		probablemente en la digestion del cerebro se pierdan muchas células.
+	La salida del fact sorting es un well-plate de 384 wells que sirven para 4 librerias de 96 células cada una. (1 cel x well) 
+	Cada librería es una "sample" que ellos proveen en tablas csv. Cada tabla tiene las (al menos hasta) 96 células.
+	Diferentes fechas indican diferentes réplicas biológicas (cada réplica sería una corrida de facts del preparado de 50 cerebros).
+	Estan indicados los tratamientos (LD, DD) y los ZTs y CTs en las muestras.
+
+
+No pude encontrar que significan los AR.
+No entiendo como de los miles de células relojeras (como total 7500) solo se quedan con 384 por corrida de facts.
