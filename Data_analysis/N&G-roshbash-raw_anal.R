@@ -1,5 +1,6 @@
 # Roshbash data re-analysis.
-# by ezeq Perez
+# by Guzkiel
+
 
 ################################################################################--- 
 ## working with the single-cell data.

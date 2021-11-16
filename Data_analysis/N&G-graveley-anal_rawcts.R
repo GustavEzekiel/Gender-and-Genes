@@ -1,5 +1,5 @@
 # Celniker&graveley data re-analysis.
-# by ezeq Perez
+# by Guzkiel
 
 ################################################################################--- 
 ## working with the develomental stage data (graveley et al 2011).
